@@ -1,0 +1,3 @@
+LOCAL_PATH := device/huawei/DUB_LX1
+
+PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_DUB_LX1.mk
